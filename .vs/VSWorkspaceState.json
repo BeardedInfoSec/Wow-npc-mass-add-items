@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\logs",
+    "\\supporting_scripts"
   ],
-  "SelectedNode": "\\npc_additem.py",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

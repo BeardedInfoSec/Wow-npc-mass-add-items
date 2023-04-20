@@ -72,7 +72,7 @@ def removeDups(itemList,spellList):
         if i not in spell_de_duped:
             spell_de_duped.append(i)   
        
-def SpellToJson(spellsToAdd):
+def SpellToJson():
     
     newRow = {
 	"rows":
@@ -249,5 +249,4 @@ get_urls.run()
 cleanUrls()
 cleaned.close()
 GearSelection()
-
 quit()
