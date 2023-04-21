@@ -1,5 +1,3 @@
-import pyautogui as py
-import time
 import os
 import datetime
 import supporting_scripts.get_urls as get_urls
