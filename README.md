@@ -39,7 +39,6 @@ This script has the following limitations:
 
 ## Edit SQL DB From External Computer
 
-## Opening Firewall Ports
 open firewall on machine to allow port 3310
 
 ## Edit SPP-Database.ini to allow external traffic
