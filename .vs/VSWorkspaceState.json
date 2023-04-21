@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\logs",
-    "\\supporting_scripts"
+    "\\supporting_scripts",
+    "\\supporting_scripts\\__pycache__"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\logs\\spell_list.json",
   "PreviewInSolutionExplorer": false
 }

@@ -1,2 +1,4 @@
 pyautogui==0.9.53
 pyperclip==1.8.2
+mysql.connector==8.0.33
+getpass4==0.0.14.1
