@@ -39,11 +39,10 @@ This script has the following limitations:
 
 ## Edit SQL DB From External Computer
 
-## Opening Firewall Ports
 open firewall on machine to allow port 3310
 
 ## Edit SPP-Database.ini to allow external traffic
-Open ./SPP_Classics_V2/SPP_Server/Server\Database/SPP-Database.ini
+Open ./SPP_Classics_V2/SPP_Server/Server/Database/SPP-Database.ini
 
 [mysqld]
 port=3310
